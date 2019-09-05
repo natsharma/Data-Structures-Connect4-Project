@@ -18,10 +18,9 @@ A game is won if 4 discs of the same color appear in a column , row or diagonal.
 
 
 ## To Run the Program:
-* Compile my java files in either Eclipse or run eclipse from Terminal.
-* Program will prompt you for a path to the input file. 
-* Input files are provided in this repo.
-* Enter input file path, press enter
+* Compile my java files in either Eclipse, Atom, or run from Terminal.
+* No input files required
+* Press enter to run
 
 ## Expected Results
 If you run a 4x4 Connect4 game, these are the results you should achieve: (Atom Console)
