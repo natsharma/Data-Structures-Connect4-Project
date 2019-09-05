@@ -5,7 +5,7 @@ In this project you will help determine the best moves for an abbreviated game o
 The program will analyze the best starting position to make a move. Due to processing times our 
 Connect4 board will be 4 x 4, versus a 7x7 board of the game ( the actual board is 7 x 6).
 
-
+![image](https://user-images.githubusercontent.com/22229544/64372103-1e5ca700-cff0-11e9-8d73-94e5e1b05a32.png)
 
 The program will explore making its first move in each of the four columns. The first action will be to make a move in one of the 
 four columns. The program will then pass the Board, and the next player to a Play method. The Play method will analyze the board 
