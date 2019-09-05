@@ -24,7 +24,7 @@ If the board is not a complete game, CheckBoard returns 3. This result prompts P
 ## Expected Results
 If you run a 4x4 Connect4 game, these are the results you should achieve: (Atom Console)
 
-![image](https://user-images.githubusercontent.com/22229544/64384362-02fb9700-d004-11e9-999d-fc973119e068.png)
+![image](https://user-images.githubusercontent.com/22229544/64385462-7dc4b200-d004-11e9-88bd-18f01e0180bb.png)
 
 If you run a 3x3 Connect4 game, these are the results you should achieve:
 
