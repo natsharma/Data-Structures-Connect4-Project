@@ -22,6 +22,13 @@ Within Play, the method first checks to see if the current board has a winning p
 If the board is not a complete game, CheckBoard returns 3. This result prompts Play to recursively call itself with all possible moves for the current player. The current board array is copied to another array. to ensure future executions of the method do not alter the current board.
 
 ## Expected Results
-It is advised to make your Connect4 program also work on a 3 by 3 matrix. This is easier to test with, since the 4x4 does take more processing. If you run a 3x3 Connect4 game , these are the results you should achieve:
+If you run a 4x4 Connect4 game, these are the results you should achieve: (Atom Console)
+
+
+
+If you run a 3x3 Connect4 game , these are the results you should achieve:
+
+![image](https://user-images.githubusercontent.com/22229544/64372159-3e8c6600-cff0-11e9-95b8-5b9f11295de8.png)
+
 
 ## How To Run my Program:
